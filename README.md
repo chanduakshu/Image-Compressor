@@ -2,9 +2,6 @@
 
 Minimal web app to compress images instantly.
 
-No signup.  
-No API.  
-Just clean compression.
 
 ---
 
